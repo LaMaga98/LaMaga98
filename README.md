@@ -2,8 +2,6 @@
 
 Physicist (UNAM) and Computer Scientist with an M.Sc. in Computing and Industrial Mathematics (CIMAT). 
 
-### 🧠 About Me
-
 
 ### 🧠 About Me
 
