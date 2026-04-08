@@ -1,36 +1,37 @@
 # 👋 Hi, I'm Sarahi
 
-Physicist (UNAM) and Computer Scientist with an M.Sc. in Computing and Industrial Mathematics (CIMAT). 
-
+Physicist (UNAM) and Computer Scientist with an M.Sc. in Computing and Industrial Mathematics (CIMAT). Interested in Data Science, Machine Learning, Risk Profiling, and Data-Driven Social Impact.
 
 ### 🧠 About Me
 
-I enjoy using mathematical modeling, machine learning, and data analysis to solve real-world problems with real data. My academic background in physics and computing has shaped my approach as a scientist: I thrive on researching new domains from scratch and tackling them through rigorous math and computation.
+I am a Data Scientist with a background in physics and computing, passionate about solving real-world problems through rigorous math and machine learning.
 
-My work has spanned highly diverse fields—from predicting protein funtions and analyzing social media toxicity, to detecting fiscal anomalies. In each of these projects, I have enjoyed the process of diving into a new subject, understanding it thoroughly, and building solutions. I also find great satisfaction in organizing, automating, and optimizing complex data workflows to make them efficient.
+Currently, I work in a Risk Models department where I design big data workflows, perform quantitative analysis, and deploy ML solutions. My experience spans highly diverse domains—from protein function prediction to social media toxicity and fiscal anomaly detection.
 
-I am particularly interested in social issues, healthcare, and any field where data can drive a tangible impact. I am highly adaptable and always eager to learn about new subjects and domains.
+I thrive on researching new subjects from scratch, automating complex data pipelines, and building efficient solutions. I am highly adaptable and particularly interested in healthcare, social issues, and fields where data drives tangible impact.
 
-Currently, Im a data scientist in Risk Models department, where my day-to-day involves designing big data workflows, performing rigorous quantitative analysis, and deploying machine learning solutions.
 
 ### 💻 Tech Stack
 
-* **Data Engineering & Cloud:** PySpark, Azure Databricks, PostgreSQL, GCP (Cloud Run, BigQuery)
-* **Core Languages:** Python, SQL, C/C++, Bash
-* **Machine Learning & AI:** PyTorch, Scikit-Learn, Hugging Face, Transformers, NLTK
-* **Math & Data Science:** Pandas, SciPy, Statsmodels, NetworkX
+* **Core Languages & Tools:** Python, C, SQL, Bash/Unix Shell, Git/GitHub
+* **Data Engineering & Big Data:** PySpark, Azure Databricks, PostgreSQL
+* **Machine Learning & AI:** Scikit-Learn, PyTorch, NLTK, Transformers, LLMs
+* **Data Science & Graph Analytics:** Pandas, SciPy, Statsmodels, Matplotlib, NetworkX, Pyvis
+
 
 ### 🚀 Technical Focus
 
-**Data Science & Quantitative Analysis**
-Application of advanced statistics, data wrangling, and distribution fitting to understand complex datasets. Development of predictive models and deep learning architectures using Python, Scikit-Learn, PyTorch, SciPy, and Statsmodels.
+**Predictive Modeling & Quantitative Analysis**
+Development of ML and DL models for risk profiling and anomaly detection. Application of advanced statistics and distribution fitting using Pandas, SciPy, Statsmodels, and Matplotlib.
 
 **Natural Language Processing (NLP)**
-Implementation of LLMs and Transformers for diverse domains using Hugging Face and NLTK. Projects include leveraging Prot-BERT to predict protein fluorescence (evaluated on the PEER benchmark).
+Feature extraction and text analysis on massive datasets (including fiscal records and customs declarations). Fine-tuning of LLMs (LLaMA, GPT) and Transformers (BERT, ESM) via Hugging Face for complex domains, including applied protogenomics (evaluated on the PEER benchmark).
 
-**Data Engineering & Big Data**
-Designing automated ETL pipelines and optimizing large-scale data processing workflows. Experience in distributed computing with PySpark and Azure Databricks, as well as advanced data extraction and database management using PostgreSQL.
+**Big Data & Data Engineering**
+Large-scale data wrangling, pipeline optimization, and distributed processing using PySpark and Azure Databricks. Database management with PostgreSQL and complex algorithm implementation in C/C++.
 
+**Graph Analytics (GNN)**
+Implementation of Graph Convolutional Networks (GCN) and complex network analytics for structure detection using NetworkX and Pyvis.
 
 
 
