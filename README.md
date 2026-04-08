@@ -2,7 +2,7 @@
 
 Physicist (UNAM) and Computer Scientist with an M.Sc. in Computing and Industrial Mathematics (CIMAT). Interested in Data Science, Machine Learning, Risk Profiling, and Data-Driven Social Impact.
 
-### 🧠 About Me
+## 🧠 About Me
 
 I am a Data Scientist with a background in physics and computing, passionate about solving real-world problems through rigorous math and machine learning.
 
@@ -11,7 +11,7 @@ Currently, I work in a Risk Models department where I design big data workflows,
 I thrive on researching new subjects from scratch, automating complex data pipelines, and building efficient solutions. I am highly adaptable and particularly interested in healthcare, social issues, and fields where data drives tangible impact.
 
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 * **Core Languages & Tools:** Python, C, SQL, Bash/Unix Shell, Git/GitHub
 * **Data Engineering & Big Data:** PySpark, Azure Databricks, PostgreSQL
@@ -19,7 +19,7 @@ I thrive on researching new subjects from scratch, automating complex data pipel
 * **Data Science & Graph Analytics:** Pandas, SciPy, Statsmodels, Matplotlib, NetworkX, Pyvis
 
 
-### 🚀 Technical Focus
+## 🚀 Technical Focus
 
 **Predictive Modeling & Quantitative Analysis**
 Development of ML and DL models for risk profiling and anomaly detection. Application of advanced statistics and distribution fitting using Pandas, SciPy, Statsmodels, and Matplotlib.
