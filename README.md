@@ -4,11 +4,11 @@ Physicist (UNAM) and Computer Scientist with an M.Sc. in Computing and Industria
 
 ## 🧠 About Me
 
-I am a Data Scientist with a background in physics and computing, passionate about solving real-world problems through rigorous math and machine learning.
+I am a Data Scientist with a background in physics and computing, passionate about solving real-world problems through rigorous math and machine learning. I thrive on researching new subjects from scratch, automating complex data pipelines, and building efficient solutions. 
+
 
 Currently, I work in a Risk Models department where I design big data workflows, perform quantitative analysis, and deploy ML solutions. My experience spans highly diverse domains—from protein function prediction to social media toxicity and fiscal anomaly detection.
 
-I thrive on researching new subjects from scratch, automating complex data pipelines, and building efficient solutions. I am highly adaptable and particularly interested in healthcare, social issues, and fields where data drives tangible impact.
 
 
 ## 💻 Tech Stack
